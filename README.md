@@ -1,4 +1,4 @@
-# SAMBA-Bank-Customer-Service
+# SAMBA Bank Customer Service
 A 2nd assignment for the Data Structure course for the purpose of implementing Queue data structure.
 
 A java program that has one customer service at a bank and a new customer arrives in a queue line in every 4 minutes and need to take 7 minutes for finishing the service usage.
